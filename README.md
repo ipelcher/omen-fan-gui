@@ -6,12 +6,11 @@ This was made for my personal convenience so functionality is very limited. Feel
 
 Path to the original utility after install can be changed in `omen-fan-utility-path.txt` file in application's direcotory
 
-Manual installation:
-
 Requirements:
 
+- Polkit
 - Python
-- [Original software](https://github.com/alou-S/omen-fan)
 - Python modules from `requirements.txt`
+- [Original software](https://github.com/alou-S/omen-fan)
 
 *Image used for icon: [Iconduck](https://iconduck.com/icons/23212/computer-fan) (CC BY 3.0 license)*
