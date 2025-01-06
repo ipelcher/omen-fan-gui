@@ -7,6 +7,7 @@ This was made for my personal convenience so functionality is very limited. Feel
 Path to the original utility after install can be changed in `omen-fan-utility-path.txt` file in application's direcotory
 
 Manual installation:
+
 Requirements:
 
 - Python
